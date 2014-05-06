@@ -6,4 +6,5 @@ A stand alone program, designed for BMS College of Engineering, to allow student
 The program must be opened in NetBeans, to execute, and make changes. Instructions to do so, can be found [here.]("https://netbeans.org/kb/docs/ide/git.html#clone)
 
 The project uses a Java front end, and a MySQL back end.
-Import the .sql file, into a MySQL Server. Instructions will be added soon.
+
+Import the .sql file, into a MySQL Server. Click [here]("http://stackoverflow.com/questions/4546778/how-can-i-import-a-database-with-mysql-from-terminal") for instructions.
